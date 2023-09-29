@@ -1,0 +1,257 @@
+Destination,Company,Duration,Departure,Arrival,Price,Stops,layoverTime,Website
+STN,Ryanair,3h 10m,22:05,23:15,31,0,0,Kayak
+LHR,Finnair,3h 00m,16:00,17:00,79,0,0,Kayak
+LHR,Finnair,3h 15m,14:00,15:15,95,0,0,Kayak
+LHR,Finnair,3h 05m,19:35,20:40,95,0,0,Kayak
+LGW,Norwegian,4h 45m,14:10,16:55,49,1,0h 45m,Kayak
+LHR,Finnair,3h 20m,07:50,09:10,112,0,0,Kayak
+LHR,British Airways,3h 00m,16:00,17:00,126,0,0,Kayak
+LHR,Scandinavian Airlines,5h 20m,18:20,21:40,53,1,1h 35m,Kayak
+LGW,Norwegian,6h 40m,07:40,12:20,47,1,2h 55m,Kayak
+LHR,Scandinavian Airlines,7h 20m,11:05,16:25,43,1,3h 20m,Kayak
+LHR,Scandinavian Airlines,4h 40m,10:15,12:55,71,1,0h 50m,Kayak
+LHR,Scandinavian Airlines,5h 30m,11:05,14:35,67,1,1h 25m,Kayak
+LHR,British Airways,3h 05m,19:35,20:40,163,0,0,Kayak
+LHR,British Airways,3h 20m,07:50,09:10,163,0,0,Kayak
+LHR,British Airways,3h 15m,14:00,15:15,163,0,0,Kayak
+STN,"Norwegian, Ryanair",6h 15m,07:40,11:55,55,1,2h 35m,Kayak
+LGW,Norwegian,10h 40m,07:40,16:20,40,1,6h 55m,Kayak
+STN,"Norwegian, Ryanair",6h 45m,16:40,21:25,56,1,3h 15m,Kayak
+LGW,"Finnair, Norwegian",4h 45m,13:35,16:20,83,1,1h 10m,Kayak
+LHR,Scandinavian Airlines,9h 25m,11:05,18:30,44,1,5h 20m,Kayak
+LHR,Scandinavian Airlines,7h 55m,10:05,16:00,53,1,4h 00m,Kayak
+LGW,"Finnair, Norwegian",5h 45m,12:35,16:20,78,1,2h 10m,Kayak
+LHR,"Norwegian, British Airways",5h 00m,16:40,19:40,91,1,1h 15m,Kayak
+STN,"Finnair, Ryanair",5h 35m,08:20,11:55,83,1,2h 00m,Kayak
+LHR,Scandinavian Airlines,7h 30m,07:25,12:55,71,1,3h 35m,Kayak
+LHR,"Norwegian, Scandinavian Airlines",6h 40m,16:40,21:20,73,1,3h 00m,Kayak
+STN,"Finnair, Ryanair",6h 00m,17:25,21:25,84,1,2h 25m,Kayak
+LHR,Scandinavian Airlines,9h 35m,10:05,17:40,53,1,5h 45m,Kayak
+STN,"Scandinavian Airlines, Ryanair",6h 30m,07:25,11:55,79,1,2h 50m,Kayak
+STN,"Finnair, Ryanair",5h 35m,07:05,10:40,92,1,1h 50m,Kayak
+LHR,"Norwegian, Scandinavian Airlines",6h 20m,14:10,18:30,84,1,2h 15m,Kayak
+LHR,Scandinavian Airlines,8h 45m,10:15,17:00,71,1,5h 00m,Kayak
+STN,"CitizenPlane, Ryanair",6h 30m,07:25,11:55,90,1,2h 50m,Kayak
+STN,"Norwegian, Ryanair UK",10h 40m,14:10,22:50,57,1,6h 50m,Kayak
+LCY,KLM,4h 30m,07:00,09:30,139,1,0h 40m,Kayak
+LCY,KLM,4h 40m,13:55,16:35,139,1,1h 00m,Kayak
+LHR,KLM,4h 40m,18:10,20:50,139,1,0h 40m,Kayak
+LHR,KLM,5h 05m,13:55,17:00,139,1,1h 10m,Kayak
+LHR,KLM,5h 10m,10:40,13:50,139,1,1h 10m,Kayak
+LGW,"CitizenPlane, Norwegian",6h 55m,07:25,12:20,100,1,3h 10m,Kayak
+LCY,KLM,5h 25m,13:55,17:20,139,1,1h 50m,Kayak
+LGW,CitizenPlane,7h 50m,11:05,16:55,91,1,3h 50m,Kayak
+LGW,"CitizenPlane, Norwegian",8h 05m,10:15,16:20,90,1,4h 25m,Kayak
+STN,"airBaltic, Ryanair UK",9h 20m,15:30,22:50,74,2,1h 55m,Kayak
+LGW,Norwegian,7h 45m,07:40,13:25,87,2,1h 05m,Kayak
+LGW,Norwegian,7h 55m,14:10,20:05,89,2,2h 20m,Kayak
+LGW,Norwegian,7h 55m,14:10,20:05,89,2,1h 30m,Kayak
+LGW,Norwegian,8h 00m,14:10,20:10,94,2,2h 15m,Kayak
+LGW,Norwegian,8h 00m,14:10,20:10,94,2,2h 55m,Kayak
+LGW,Norwegian,8h 00m,14:10,20:10,94,2,1h 35m,Kayak
+LGW,Lufthansa,5h 35m,07:00,10:35,114,1,1h 15m,Kayak
+LHR,"Finnair, Scandinavian Airlines",5h 55m,17:25,21:20,100,1,2h 10m,Kayak
+LGW,Norwegian,11h 15m,07:40,16:55,67,2,1h 20m,Kayak
+LHR,Lufthansa,5h 45m,07:00,10:45,114,1,1h 10m,Kayak
+LGW,Lufthansa,5h 05m,14:00,17:05,122,1,0h 45m,Kayak
+LHR,KLM,5h 45m,07:00,10:45,139,1,1h 35m,Kayak
+LHR,CitizenPlane,7h 20m,11:05,16:25,111,1,3h 20m,Kayak
+LHR,Scandinavian Airlines,9h 40m,10:15,17:55,71,1,5h 55m,Kayak
+STN,"Finnair, Ryanair",5h 40m,12:00,15:40,98,1,1h 35m,Kayak
+LHR,"Finnair, Scandinavian Airlines",7h 20m,12:35,17:55,88,1,3h 40m,Kayak
+LHR,KLM,6h 00m,13:55,17:55,139,1,2h 05m,Kayak
+STN,"airBaltic, Ryanair",9h 15m,15:30,22:45,84,2,2h 20m,Kayak
+STN,"Finnair, Ryanair",7h 20m,16:05,21:25,83,1,3h 45m,Kayak
+LGW,"Finnair, Norwegian",6h 00m,08:20,12:20,97,1,2h 20m,Kayak
+LHR,Scandinavian Airlines,12h 30m,11:05,21:35,44,1,8h 30m,Kayak
+LCY,Lufthansa,5h 40m,14:00,17:40,122,1,1h 25m,Kayak
+LHR,Scandinavian Airlines,11h 35m,07:25,17:00,55,1,7h 45m,Kayak
+LHR,Lufthansa,5h 45m,14:00,17:45,122,1,1h 10m,Kayak
+STN,"airBaltic, Ryanair",7h 05m,05:20,10:25,88,2,0h 50m,Kayak
+LCY,KLM,6h 30m,13:55,18:25,139,1,2h 50m,Kayak
+STN,"Scandinavian Airlines, Ryanair",6h 25m,18:20,22:45,98,1,2h 45m,Kayak
+LGW,"Scandinavian Airlines, Norwegian",6h 55m,07:25,12:20,92,1,3h 10m,Kayak
+LHR,Lufthansa,8h 00m,07:00,13:00,99,1,3h 10m,Kayak
+LGW,"CitizenPlane, Norwegian",5h 45m,12:35,16:20,131,1,2h 10m,Kayak
+LHR,"Finnair, British Airways",6h 35m,12:05,16:40,104,1,2h 35m,Kayak
+LHR,"Finnair, British Airways",5h 35m,16:05,19:40,116,1,1h 45m,Kayak
+LHR,Air France,5h 45m,17:40,21:25,126,1,1h 00m,Kayak
+STN,"Eurowings, Ryanair",9h 00m,15:20,22:20,97,1,5h 00m,Kayak
+LHR,"Norwegian, Scandinavian Airlines",7h 15m,07:40,12:55,91,1,3h 20m,Kayak
+STN,"airBaltic, Ryanair",8h 35m,05:20,11:55,78,2,0h 45m,Kayak
+LTN,"Finnair, easyJet",6h 20m,07:05,11:25,103,1,2h 30m,Kayak
+LGW,"Scandinavian Airlines, Norwegian",8h 05m,10:15,16:20,84,1,4h 25m,Kayak
+LHR,Scandinavian Airlines,12h 30m,07:25,17:55,55,1,8h 40m,Kayak
+LHR,KLM,7h 20m,13:55,19:15,139,1,3h 20m,Kayak
+LHR,Lufthansa,6h 45m,14:00,18:45,122,1,2h 10m,Kayak
+LHR,Lufthansa,10h 50m,07:00,15:50,102,1,6h 00m,Kayak
+STN,"Finnair, Ryanair",5h 55m,13:40,17:35,115,1,2h 25m,Kayak
+LHR,"Norwegian, British Airways",8h 45m,14:10,20:55,84,1,4h 45m,Kayak
+LHR,Scandinavian Airlines,6h 55m,16:25,21:20,123,1,3h 05m,Kayak
+LHR,"Norwegian, Scandinavian Airlines",9h 25m,14:10,21:35,77,1,5h 25m,Kayak
+LHR,Lufthansa,7h 45m,07:00,12:45,114,1,3h 10m,Kayak
+LGW,"Scandinavian Airlines, Norwegian",7h 50m,11:05,16:55,95,1,3h 50m,Kayak
+STN,"Finnair, Ryanair",6h 55m,17:50,22:45,107,1,3h 15m,Kayak
+LGW,"Finnair, easyJet",6h 10m,07:15,11:25,117,1,2h 20m,Kayak
+STN,"Finnair, Ryanair",9h 50m,13:35,21:25,77,1,6h 20m,Kayak
+LHR,Scandinavian Airlines,11h 25m,10:05,19:30,78,1,7h 35m,Kayak
+STN,"Finnair, Ryanair UK",5h 10m,19:40,22:50,132,1,1h 25m,Kayak
+LHR,Scandinavian Airlines,11h 30m,06:30,16:00,78,1,7h 35m,Kayak
+LGW,"Scandinavian Airlines, Norwegian",5h 20m,10:05,13:25,129,1,1h 30m,Kayak
+LCY,KLM,7h 40m,13:55,19:35,147,1,4h 00m,Kayak
+LGW,"airBaltic, Norwegian",9h 00m,05:20,12:20,90,2,0h 45m,Kayak
+LGW,"Finnair, Norwegian",5h 15m,15:35,18:50,134,1,1h 40m,Kayak
+LHR,Air France,6h 00m,06:30,10:30,144,1,1h 05m,Kayak
+STN,"Finnair, Ryanair",10h 50m,12:35,21:25,72,1,7h 20m,Kayak
+LGW,"Finnair, easyJet",5h 20m,09:40,13:00,133,1,0h 55m,Kayak
+STN,Ryanair,3h 10m,22:05,23:15,30,0,0,Momondo
+STN,Ryanair,3h 10m,22:05,23:15,30,0,0,Momondo
+LHR,Finnair,3h 00m,16:00,17:00,79,0,0,Momondo
+LHR,Finnair,3h 15m,14:00,15:15,95,0,0,Momondo
+LGW,Norwegian,4h 45m,14:10,16:55,48,1,0h 45m,Momondo
+LHR,Finnair,3h 05m,19:35,20:40,104,0,0,Momondo
+LHR,British Airways,3h 00m,16:00,17:00,115,0,0,Momondo
+LHR,Finnair,3h 20m,07:50,09:10,121,0,0,Momondo
+LHR,Scandinavian Airlines,5h 20m,18:20,21:40,54,1,1h 35m,Momondo
+LGW,Norwegian,6h 40m,07:40,12:20,47,1,2h 55m,Momondo
+LHR,Scandinavian Airlines,7h 20m,11:05,16:25,43,1,3h 20m,Momondo
+LHR,Scandinavian Airlines,4h 40m,10:15,12:55,74,1,0h 50m,Momondo
+LHR,British Airways,3h 05m,19:35,20:40,152,0,0,Momondo
+LHR,Scandinavian Airlines,5h 30m,11:05,14:35,71,1,1h 25m,Momondo
+LHR,British Airways,3h 20m,07:50,09:10,152,0,0,Momondo
+LHR,British Airways,3h 15m,14:00,15:15,152,0,0,Momondo
+STN,"Norwegian, Ryanair",6h 15m,07:40,11:55,55,1,2h 35m,Momondo
+LGW,Norwegian,10h 40m,07:40,16:20,40,1,6h 55m,Momondo
+STN,"Norwegian, Ryanair",6h 45m,16:40,21:25,56,1,3h 15m,Momondo
+LGW,"Finnair, Norwegian",4h 45m,13:35,16:20,83,1,1h 10m,Momondo
+LHR,Scandinavian Airlines,9h 25m,11:05,18:30,44,1,5h 20m,Momondo
+LHR,Scandinavian Airlines,7h 55m,10:05,16:00,53,1,4h 00m,Momondo
+LGW,"Finnair, Norwegian",5h 45m,12:35,16:20,78,1,2h 10m,Momondo
+LHR,"Norwegian, British Airways",5h 00m,16:40,19:40,91,1,1h 15m,Momondo
+STN,"Finnair, Ryanair",5h 35m,08:20,11:55,83,1,2h 00m,Momondo
+LHR,Scandinavian Airlines,7h 30m,07:25,12:55,71,1,3h 35m,Momondo
+LHR,"Norwegian, Scandinavian Airlines",6h 40m,16:40,21:20,73,1,3h 00m,Momondo
+STN,"Finnair, Ryanair",6h 00m,17:25,21:25,84,1,2h 25m,Momondo
+LHR,Scandinavian Airlines,12h 30m,11:05,21:35,44,1,8h 30m,Momondo
+LHR,Scandinavian Airlines,9h 35m,10:05,17:40,53,1,5h 45m,Momondo
+STN,"Scandinavian Airlines, Ryanair",6h 30m,07:25,11:55,79,1,2h 50m,Momondo
+STN,"Finnair, Ryanair",5h 35m,07:05,10:40,92,1,1h 50m,Momondo
+LHR,"Norwegian, Scandinavian Airlines",6h 20m,14:10,18:30,84,1,2h 15m,Momondo
+LHR,Scandinavian Airlines,8h 45m,10:15,17:00,71,1,5h 00m,Momondo
+STN,"CitizenPlane, Ryanair",6h 30m,07:25,11:55,90,1,2h 50m,Momondo
+LHR,Scandinavian Airlines,11h 35m,07:25,17:00,55,1,7h 45m,Momondo
+LHR,Scandinavian Airlines,12h 30m,07:25,17:55,55,1,8h 40m,Momondo
+STN,"Norwegian, Ryanair UK",10h 40m,14:10,22:50,57,1,6h 50m,Momondo
+LHR,Scandinavian Airlines,9h 40m,10:15,17:55,71,1,5h 55m,Momondo
+LCY,KLM,4h 30m,07:00,09:30,142,1,0h 40m,Momondo
+LCY,KLM,4h 40m,13:55,16:35,142,1,1h 00m,Momondo
+LHR,Air France,5h 45m,17:40,21:25,129,1,1h 00m,Momondo
+LGW,"CitizenPlane, Norwegian",6h 55m,07:25,12:20,100,1,3h 10m,Momondo
+LGW,CitizenPlane,7h 50m,11:05,16:55,91,1,3h 50m,Momondo
+LGW,Norwegian,7h 45m,07:40,13:25,87,2,1h 05m,Momondo
+STN,"airBaltic, Ryanair UK",9h 20m,15:30,22:50,74,2,1h 55m,Momondo
+LGW,Norwegian,7h 55m,14:10,20:05,89,2,2h 20m,Momondo
+LGW,Norwegian,7h 55m,14:10,20:05,89,2,1h 30m,Momondo
+LGW,Norwegian,8h 00m,14:10,20:10,94,2,2h 15m,Momondo
+LGW,Norwegian,8h 00m,14:10,20:10,94,2,2h 55m,Momondo
+LGW,Norwegian,8h 00m,14:10,20:10,94,2,1h 35m,Momondo
+LGW,"CitizenPlane, Norwegian",8h 05m,10:15,16:20,90,1,4h 25m,Momondo
+LHR,KLM,5h 05m,13:55,17:00,142,1,1h 10m,Momondo
+LGW,Norwegian,11h 15m,07:40,16:55,67,2,1h 20m,Momondo
+LHR,Scandinavian Airlines,6h 55m,16:25,21:20,123,1,3h 05m,Momondo
+LHR,KLM,5h 10m,10:40,13:50,142,1,1h 10m,Momondo
+LHR,"Finnair, Scandinavian Airlines",5h 55m,17:25,21:20,100,1,2h 10m,Momondo
+LCY,KLM,5h 25m,13:55,17:20,142,1,1h 50m,Momondo
+LHR,CitizenPlane,7h 20m,11:05,16:25,111,1,3h 20m,Momondo
+LHR,Scandinavian Airlines,11h 25m,10:05,19:30,78,1,7h 35m,Momondo
+STN,"Finnair, Ryanair",5h 40m,12:00,15:40,98,1,1h 35m,Momondo
+LGW,Lufthansa,5h 35m,07:00,10:35,117,1,1h 15m,Momondo
+LHR,"Finnair, Scandinavian Airlines",7h 20m,12:35,17:55,88,1,3h 40m,Momondo
+STN,"airBaltic, Ryanair",9h 15m,15:30,22:45,84,2,2h 20m,Momondo
+STN,"Finnair, Ryanair",7h 20m,16:05,21:25,83,1,3h 45m,Momondo
+LHR,Lufthansa,5h 45m,07:00,10:45,117,1,1h 10m,Momondo
+LGW,"Finnair, Norwegian",6h 00m,08:20,12:20,97,1,2h 20m,Momondo
+LGW,Lufthansa,5h 05m,14:00,17:05,126,1,0h 45m,Momondo
+LHR,KLM,6h 00m,13:55,17:55,142,1,2h 05m,Momondo
+STN,"airBaltic, Ryanair",7h 05m,05:20,10:25,88,2,0h 50m,Momondo
+STN,"Scandinavian Airlines, Ryanair",6h 25m,18:20,22:45,98,1,2h 45m,Momondo
+LGW,"Scandinavian Airlines, Norwegian",6h 55m,07:25,12:20,92,1,3h 10m,Momondo
+LHR,"Finnair, British Airways",6h 35m,12:05,16:40,104,1,2h 35m,Momondo
+STN,"Finnair, Ryanair",5h 10m,07:15,10:25,112,1,1h 30m,Momondo
+LHR,"Finnair, British Airways",5h 35m,16:05,19:40,116,1,1h 45m,Momondo
+STN,"Eurowings, Ryanair",9h 00m,15:20,22:20,97,1,5h 00m,Momondo
+LCY,Lufthansa,5h 40m,14:00,17:40,126,1,1h 25m,Momondo
+LHR,Air France,6h 00m,06:30,10:30,147,1,1h 05m,Momondo
+LCY,KLM,6h 30m,13:55,18:25,142,1,2h 50m,Momondo
+LHR,"Norwegian, Scandinavian Airlines",7h 15m,07:40,12:55,91,1,3h 20m,Momondo
+LHR,Lufthansa,5h 45m,14:00,17:45,126,1,1h 10m,Momondo
+STN,"airBaltic, Ryanair",8h 35m,05:20,11:55,78,2,0h 45m,Momondo
+LHR,Lufthansa,8h 00m,07:00,13:00,102,1,3h 10m,Momondo
+LGW,"Scandinavian Airlines, Norwegian",8h 05m,10:15,16:20,84,1,4h 25m,Momondo
+LTN,"Finnair, easyJet",6h 20m,07:05,11:25,103,1,2h 30m,Momondo
+STN,"Finnair, Ryanair",5h 45m,11:20,15:05,111,1,1h 55m,Momondo
+LHR,KLM,4h 40m,18:10,20:50,142,1,0h 40m,Momondo
+STN,"Scandinavian Airlines, Ryanair",5h 55m,06:30,10:25,113,1,2h 15m,Momondo
+LHR,"Norwegian, British Airways",8h 45m,14:10,20:55,84,1,4h 45m,Momondo
+LHR,"Norwegian, Scandinavian Airlines",9h 25m,14:10,21:35,77,1,5h 25m,Momondo
+LHR,KLM,7h 20m,13:55,19:15,142,1,3h 20m,Momondo
+STN,Ryanair,3h 10m,22:05,23:15,37,0,-1,Kiwi
+LGW,Norwegian,4h 45m,14:10,16:55,64,1,-1,Kiwi
+LHR,SAS,5h 20m,18:20,21:40,67,1,-1,Kiwi
+LHR,SAS,7h 20m,11:05,16:25,55,1,-1,Kiwi
+LHR,Finnair,3h,16:00,17:00,90,0,-1,Kiwi
+LHR,SAS,4h 40m,10:15,12:55,81,1,-1,Kiwi
+STN,Norwegian International,6h 15m,07:40,11:55,69,1,-1,Kiwi
+LHR,SAS,5h 30m,11:05,14:35,76,1,-1,Kiwi
+STN,Norwegian International,6h 45m,16:40,21:25,69,1,-1,Kiwi
+LHR,SAS,7h 55m,10:05,16:00,67,1,-1,Kiwi
+LHR,SAS,9h 25m,11:05,18:30,55,1,-1,Kiwi
+LGW,Norwegian International,6h 40m,07:40,12:20,78,1,-1,Kiwi
+LHR,Finnair,3h 05m,19:35,20:40,108,0,-1,Kiwi
+LGW,Finnair,4h 45m,13:35,16:20,96,1,-1,Kiwi
+LHR,Finnair,3h 15m,14:00,15:15,108,0,-1,Kiwi
+LGW,Finnair,5h 45m,12:35,16:20,90,1,-1,Kiwi
+LHR,Norwegian International,6h 40m,16:40,21:20,87,1,-1,Kiwi
+STN,Finnair,5h 35m,08:20,11:55,96,1,-1,Kiwi
+LHR,SAS,7h 30m,07:25,12:55,81,1,-1,Kiwi
+STN,SAS,6h 30m,07:25,11:55,91,1,-1,Kiwi
+LHR,SAS,9h 35m,10:05,17:40,67,1,-1,Kiwi
+STN,Finnair,6h,17:25,21:25,97,1,-1,Kiwi
+LHR,Norwegian International,5h,16:40,19:40,106,1,-1,Kiwi
+LHR,Norwegian,6h 20m,14:10,18:30,100,1,-1,Kiwi
+LHR,SAS,8h 45m,10:15,17:00,81,1,-1,Kiwi
+STN,Finnair,5h 35m,07:05,10:40,107,1,-1,Kiwi
+STN,Finnair,7h 20m,16:05,21:25,96,1,-1,Kiwi
+LHR,Finnair,3h 20m,07:50,09:10,128,0,-1,Kiwi
+LGW,Norwegian International,10h 40m,07:40,16:20,70,1,-1,Kiwi
+LHR,SAS,12h 30m,11:05,21:35,55,1,-1,Kiwi
+STN,Finnair,5h 40m,12:00,15:40,112,1,-1,Kiwi
+LHR,SAS,9h 40m,10:15,17:55,81,1,-1,Kiwi
+STN,SAS,6h 25m,18:20,22:45,108,1,-1,Kiwi
+LGW,Finnair,6h,08:20,12:20,112,1,-1,Kiwi
+LHR,Finnair,7h 20m,12:35,17:55,102,1,-1,Kiwi
+LGW,SAS,6h 55m,07:25,12:20,106,1,-1,Kiwi
+STN,airBaltic,7h 05m,05:20,10:25,105,2,-1,Kiwi
+LHR,SAS,11h 35m,07:25,17:00,70,1,-1,Kiwi
+LHR,Finnair,5h 55m,17:25,21:20,115,1,-1,Kiwi
+LHR,Norwegian International,7h 15m,07:40,12:55,107,1,-1,Kiwi
+LHR,SAS,13h 05m,10:15,21:20,62,1,-1,Kiwi
+LGW,Norwegian,7h 55m,14:10,20:05,104,2,-1,Kiwi
+LGW,Norwegian,7h 55m,14:10,20:05,104,2,-1,Kiwi
+LHR,Norwegian,8h 45m,14:10,20:55,97,1,-1,Kiwi
+STN,Finnair,9h 50m,13:35,21:25,89,1,-1,Kiwi
+STN,Finnair,5h 10m,07:15,10:25,128,1,-1,Kiwi
+LHR,SAS,12h 30m,07:25,17:55,70,1,-1,Kiwi
+STN,Finnair,10h 50m,12:35,21:25,84,1,-1,Kiwi
+LGW,Norwegian,7h 45m,07:40,13:25,109,2,-1,Kiwi
+STN,SAS,5h 55m,06:30,10:25,125,1,-1,Kiwi
+LGW,CitizenPlane,7h 50m,11:05,16:55,109,1,-1,Kiwi
+LGW,CitizenPlane,8h 05m,10:15,16:20,107,1,-1,Kiwi
+LHR,Finnair,6h 35m,12:05,16:40,120,1,-1,Kiwi
+STN,Finnair,5h 45m,11:20,15:05,127,1,-1,Kiwi
+LGW,airBaltic,8h 05m,05:20,11:25,110,2,-1,Kiwi
+LHR,Finnair,5h 35m,16:05,19:40,133,1,-1,Kiwi
+STN,SAS,6h 25m,18:20,22:45,127,1,-1,Kiwi
+STN,Finnair,6h 55m,17:50,22:45,124,1,-1,Kiwi
+STN,Finnair,5h 55m,13:40,17:35,132,1,-1,Kiwi
+STN,SAS,5h 55m,06:30,10:25,133,1,-1,Kiwi
